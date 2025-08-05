@@ -1,0 +1,8 @@
+{
+  "filename": "swarm_0004.wav",
+  "num_mosquitoes": 4,
+  "species_count": {
+    "Ae. aegypti": 1,
+    "An. gambiae": 3
+  }
+}

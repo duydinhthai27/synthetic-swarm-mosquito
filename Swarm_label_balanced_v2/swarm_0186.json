@@ -1,0 +1,9 @@
+{
+  "filename": "swarm_0186.wav",
+  "num_mosquitoes": 5,
+  "species_count": {
+    "An. gambiae": 1,
+    "An. arabiensis": 1,
+    "C. quinquefasciatus": 3
+  }
+}
